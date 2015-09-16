@@ -1,25 +1,20 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:44:18.764695
+#+DATE: 2015-08-30 19:44:22.983039
 #+TITLE: 勝天王般若波羅蜜經
 #+PROPERTY: CBETA_ID T08n0231
 #+PROPERTY: ID KR6c0019
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 08, No. 231
 #+PROPERTY: VOL 08
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6c0019_T_006-0716c> 
 #+PROPERTY: JUAN 6
 ¶
-
- 《勝天王般若波羅蜜經》卷第六¶
+《勝天王般若波羅蜜經》卷第六¶
 ¶
 陳優禪尼國王子月婆首那譯¶
 
-10述德品
-:PROPERTIES:
-:head: 述德品第十
-:END:
-¶
+述德品第十¶
 
 爾時，文殊師利菩薩摩訶薩即從座起，偏袒¶
 右肩右膝著地，合掌向佛頭面作禮，而白佛¶
@@ -298,11 +293,7 @@
 阿耨多羅三藐三菩提心，一萬二千天子得¶
 遠塵離垢法眼淨。¶
 
-11現化品
-:PROPERTIES:
-:head: 勝天王般若波羅蜜經現化品第十一
-:END:
-¶
+勝天王般若波羅蜜經現化品第十一¶
 
 爾時，善思惟菩薩摩訶薩白勝天王言：「如來¶
 所造化佛，更能化不？」
@@ -460,11 +451,7 @@
 法忍，二萬人天得遠塵離垢法眼淨，無量無¶
 邊人、天發阿耨多羅三藐三菩提心。¶
 
-12陀羅尼品
-:PROPERTIES:
-:head: 《勝天王般若波羅蜜經》陀羅尼品第十二
-:END:
-
+《勝天王般若波羅蜜經》陀羅尼品第十二
 <pb:KR6c0019_T_006-0719c>¶
 
 爾時，文殊師利菩薩摩訶薩即從坐起，偏袒¶
