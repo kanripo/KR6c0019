@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 勝天王般若波羅蜜經
+#+DATE: 2015-08-30 19:44:19.048408
+#+PROPERTY: JUAN 0
