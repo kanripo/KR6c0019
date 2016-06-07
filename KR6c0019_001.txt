@@ -1,26 +1,21 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:44:18.597637
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 7:24
 #+TITLE: 勝天王般若波羅蜜經
 #+PROPERTY: CBETA_ID T08n0231
 #+PROPERTY: ID KR6c0019
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 08, No. 231
 #+PROPERTY: VOL 08
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6c0019_T_001-0687a> 
 #+PROPERTY: JUAN 1
 ¶
-No.231[No.220(6)]¶
-
- 《勝天王般若波羅蜜經》卷第一¶
+No. 231 [No. 220(6)]¶
+《勝天王般若波羅蜜經》卷第一¶
 ¶
 陳優禪尼國王子月婆首那譯¶
 
-1通達品
-:PROPERTIES:
-:head: 通達品第一
-:END:
-¶
+* 通達品第一¶
 
 如是我聞：
 
@@ -421,11 +416,7 @@ No.231[No.220(6)]¶
 法，無二無別，自性離故。』是名菩薩摩訶薩行¶
 般若波羅蜜通達智波羅蜜。」¶
 
-2顯相品
-:PROPERTIES:
-:head: 《勝天王般若波羅蜜經》顯相品第二
-:END:
-¶
+* 《勝天王般若波羅蜜經》顯相品第二¶
 
 爾時，勝天王即從座起，偏袒右肩，右膝著地，¶
 合掌向佛，頭面作禮，而白佛言：「世尊！是般若¶
