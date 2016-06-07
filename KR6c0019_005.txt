@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:44:18.738739
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 7:24
 #+TITLE: 勝天王般若波羅蜜經
 #+PROPERTY: CBETA_ID T08n0231
 #+PROPERTY: ID KR6c0019
@@ -17,7 +17,7 @@
 ¶
 陳優禪尼國王子月婆首那譯¶
 
-8無所得品
+* 8無所得品
 :PROPERTIES:
 :head: 無所得品第八
 :END:
@@ -443,7 +443,7 @@
 子得遠塵離垢法眼淨，四萬人天發阿耨多¶
 羅三藐三菩提心。¶
 
-9證勸品
+* 9證勸品
 :PROPERTIES:
 :head: 《勝天王般若波羅蜜經》證勸品第九
 :END:
